@@ -16,8 +16,8 @@ STEP-4: Else subtract the key from the plain text.
 STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
-## Developed By : VIMALRAJ B
-## Register Number : 212224230304
+## Developed By : RIZWAN
+## Register Number : 212224100051
 
 ```
 #include <stdio.h>
@@ -40,7 +40,7 @@ void caesarCipher(char text[], int shift, char mode[]) {
 }
 
 int main() {
-    char message[100] = "VIMALRAJ"; 
+    char message[100] = "RIZWAN"; 
     int key = 3;
 
     char encrypted[100];
@@ -64,7 +64,8 @@ int main() {
 
 ## OUTPUT:
 
-<img width="347" height="278" alt="image" src="https://github.com/user-attachments/assets/327ff2e2-87da-4820-b63e-e5d48bbad229" />
+<img width="401" height="289" alt="image" src="https://github.com/user-attachments/assets/61091776-bfb3-4b10-ab8f-48afcdf1f775" />
+
 
 
 ## RESULT :
